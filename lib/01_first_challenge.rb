@@ -5,10 +5,6 @@ def first_challenge
       :matriarch => {},
       :hero => {},
      },
-     :capulet => {
-       :patriarch => {},
-       :matriarch => {},
-       :heroine => {},
-  }
+     :capulet => {}
 }
 end
